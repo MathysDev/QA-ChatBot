@@ -1,2 +1,4 @@
-Downloads/ # Ignore all files in the Downloads directory
-Downloads_BOA/ # Ignore all files in the Downloads_BOA directory
+Downloads/
+Downloads_BOA/
+Documentlist.csv
+Documentlist.xlsm
