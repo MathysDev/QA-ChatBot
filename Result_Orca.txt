@@ -1,0 +1,86 @@
+
+
+-------------------------------------------------------------------------------------------------------
+Try llm with the following queries:
+used llm: GPT4All
+Params: {'model': 'C:\\Users\\Michael\\models\\orca-mini-3b-gguf2-q4_0.gguf', 'max_tokens': 200, 'n_predict': 256, 'top_k': 40, 'top_p': 0.1, 'temp': 0.7, 'n_batch': 8, 'repeat_penalty': 1.18, 'repeat_last_n': 64, 'streaming': False}
+
+
+
+-------------------------------------------------------------------------------------------------------
+Query: wann müssen Gruppenmitglieder MWST-Abstimmung liefern
+Sample Response: Ende März
+ Wenn die Clientis AG den Grundsatz der MWST 179.479.620 (MWST) angenommen hat, dann müssen alle Mitglieder der MWST Gruppe "Clientis" ihre Quartalszahlung an die Clientis AG überweisen und alle unvollständige MWST-Schulden an die Clientis AG entrichten.
+
+Wenn die Clientis AG den Grundsatz der MWST 179.479.620 (MWST) angenommen hat, dann müssen alle Mitglieder der MWST Gruppe "Clientis" ihre Quartalszahlung an die Clientis AG überweisen und alle unvollständige MWST-Schulden an die Clientis AG entrichten.
+
+Time taken: 
+199.591
+
+
+
+-------------------------------------------------------------------------------------------------------
+Query: inner welcher Frist sind Auskunftsbegehren gemäss Datemschutz durch die Bank zu beantworten
+Sample Response: 30 Kalendertage
+ Das Bankgeheimnis ist bei der Beantwortung von Auskunftsbegehren strikte einzuhalten.
+
+Time taken: 
+86.405
+
+
+
+-------------------------------------------------------------------------------------------------------
+Query: Welche Spesen sind bei Übernachtungen bei Freunden zulässig
+Sample Response: Effektive Kosten bis 80 CHF, pauschal 60 CHF
+
+
+Die betreffenden Kosten werden möglichst niedrig gehalten.
+
+15 9.
+
+Grundsätzlich gilt dieses Spesenreglement für alle Beteiligungen und Verpflichtungen, die mit dem Unternehmen in Zusammenhang stehen.
+
+Die betreffenden Kosten werden möglichst niedrig gehalten.
+
+15 9.
+
+Was bedeutet dieses Spesenreglement für den Betrieb?
+
+Dieses Spesenreglement regelt die Zusammenhänge zwischen der betriebs- und finanzpolitik des Unternehmens sowie seiner Steuern.
+
+15 9.
+
+Was ist mit diesem Spesenreglement in Verbindung zu stehen?
+
+Dieses Spesenreglement regelt die Zusammenhänge zwischen der betriebs- und finanzpolitik des Unternehmens sowie seiner Steuern.
+
+Time taken: 
+135.822
+
+
+
+-------------------------------------------------------------------------------------------------------
+Query: wann darf das Originaldokument nach dem Scan vernichtet werden
+Sample Response: Nach Abschluss des vorgegebenen Prozesses inklusive Backup
+ Das Originaldokument kann nach dem Scan-Vernichten nur in der Regel innerhalb eines Monats vernichtet werden, sofern es keine weiteren Vorgaben gibt.
+
+Time taken: 
+106.146
+
+
+
+-------------------------------------------------------------------------------------------------------
+Query: Ab welchem Volumen einer Einzelanlage eines Kunden sind in der Anlageberatung Massnahmen betreffend Klumpenrisiken zu treffen
+Sample Response: ab 20% des Portfolios
+ 
+
+Die Anwenderin hat den Zweck, die Beratungen mit dem Kunden und ihren Wünschen anzugeben. Sie wird davon abgehalten, solche Informationen anzuzeigen, welche in der Regel nur den Kunden zugänglich sind.
+
+Die Anwenderin hat den Zweck, die Beratungen mit dem Kunden und ihren Wünschen anzugeben. Sie wird davon abgehalten, solche Informationen anzuzeigen, welche in der Regel nur den Kunden zugänglich sind.
+
+Die Anwenderin hat den Zweck, die Beratungen mit dem Kunden und ihren Wünschen anzugeben. Sie wird davon abgehalten, solche Informationen anzuzeigen, welche in der Regel nur den Kunden zugänglich sind.
+
+Die Anwenderin hat den Zweck, die Beratungen mit dem Kunden und ihren Wünsc
+
+Time taken: 
+101.402

@@ -1,9 +1,7 @@
 
-
-
 -------------------------------------------------------------------------------------------------------
 Try llm with the following queries:
-used llm: [1mGPT4All[0m
+used llm: GPT4All
 Params: {'model': 'C:\\Users\\Michael\\models\\Apollo2-7B-Q6_K.gguf', 'max_tokens': 200, 'n_predict': 256, 'top_k': 40, 'top_p': 0.1, 'temp': 0.7, 'n_batch': 8, 'repeat_penalty': 1.18, 'repeat_last_n': 64, 'streaming': False}
 
 
@@ -14,15 +12,17 @@ Sample Response: Ende März
  Gruppenmitglieder müssen ihre quartalsweise MWST-Abrechnung an die Clientis AG übermitteln und alleinige MWST-Schulden an die Clientis AG entrichten. Die Abrechnung muss als unterzeichnetes PDF und zusätzlich im Excel-Format übermittelt werden, bis zum 20. März des Jahres.
 
 Time taken: 
+147.5
 
 
 
 -------------------------------------------------------------------------------------------------------
-Query: inner welcher Frist sind Auskunftsbegehren durch die Bank zu beantworten
+Query: inner welcher Frist sind Auskunftsbegehren gemäss Datemschutz durch die Bank zu beantworten
 Sample Response: 30 Kalendertage
- Die Auskunftspflicht der Bank ist gemäß §5 des Bundesgesetzes über Finanzdienstleistungsunternehmen (FinD) und den Bestimmungen in der Weisung Vermögensverwaltung, Seite 7 Anhang 1: Bankindividuelle Grundsätze.
+ Innerhalb von 30 Tagen
 
 Time taken: 
+92.113
 
 
 
@@ -32,6 +32,7 @@ Sample Response: Effektive Kosten bis 80 CHF, pauschal 60 CHF
  Bei privater Übernachtung bei Freunden werden die effektiven Kosten bis max. CHF 80.
 
 Time taken: 
+101.666
 
 
 
@@ -41,12 +42,14 @@ Sample Response: Nach Abschluss des vorgegebenen Prozesses inklusive Backup
  Das Originaldokument darf erst vernichtet werden, wenn alle in der vorliegenden Prozessdokumentation darstellten Schritte durchlaufen wurden und mindestens ein Backup-Lauf durchgeführt wurde. Dieser Backup-Lauf findet normalerweise um 22 Uhr statt.
 
 Time taken: 
+124.581
 
 
 
 -------------------------------------------------------------------------------------------------------
-Query: Ab welchem Volumen einer Einzelanlage sind Massnahmen betreffend Klumpenrisiken zu treffen
+Query: Ab welchem Volumen einer Einzelanlage eines Kunden sind in der Anlageberatung Massnahmen betreffend Klumpenrisiken zu treffen
 Sample Response: ab 20% des Portfolios
- The relevant sentence is: den im Intranet publizierten Sätzen entschädigen.
+ Mit dem Kunden geeignete Maßnahmen zu definieren und festzuhalten.
 
 Time taken: 
+64.93

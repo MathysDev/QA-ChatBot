@@ -3,7 +3,7 @@
 
 -------------------------------------------------------------------------------------------------------
 Try llm with the following queries:
-used llm: [1mGPT4All[0m
+used llm: GPT4All
 Params: {'model': 'C:\\Users\\Michael\\models\\mistral-7b-openorca.Q4_0.gguf', 'max_tokens': 200, 'n_predict': 256, 'top_k': 40, 'top_p': 0.1, 'temp': 0.7, 'n_batch': 8, 'repeat_penalty': 1.18, 'repeat_last_n': 64, 'streaming': False}
 
 
@@ -14,15 +14,17 @@ Sample Response: Ende März
  The deadline for submitting the MWST reconciliation is at the end of each quarter.
 
 Time taken: 
+317.506
 
 
 
 -------------------------------------------------------------------------------------------------------
-Query: inner welcher Frist sind Auskunftsbegehren durch die Bank zu beantworten
+Query: inner welcher Frist sind Auskunftsbegehren gemäss Datemschutz durch die Bank zu beantworten
 Sample Response: 30 Kalendertage
- I don't know.
+ innerhalb von 30 Tagen kostenlos
 
 Time taken: 
+159.744
 
 
 
@@ -32,6 +34,7 @@ Sample Response: Effektive Kosten bis 80 CHF, pauschal 60 CHF
  Bei privater Übernachtung bei Freunden werden die effektiven Kosten bis max. CHF 80 gerechtet.
 
 Time taken: 
+168.523
 
 
 
@@ -41,12 +44,14 @@ Sample Response: Nach Abschluss des vorgegebenen Prozesses inklusive Backup
  The original document can be destroyed after the scanning process, as per the instructions in a time-controlled cycle.
 
 Time taken: 
+190.678
 
 
 
 -------------------------------------------------------------------------------------------------------
-Query: Ab welchem Volumen einer Einzelanlage sind Massnahmen betreffend Klumpenrisiken zu treffen
+Query: Ab welchem Volumen einer Einzelanlage eines Kunden sind in der Anlageberatung Massnahmen betreffend Klumpenrisiken zu treffen
 Sample Response: ab 20% des Portfolios
- The text does not provide information on the volume at which mass actions concerning clump risks are to be taken for an individual investment.
+ Ab einem Anteil von mehr als 20 % des für die Beratung mit dem Kunden zusammen als relevant definierten Portfolio-Anlagebetrags.
 
 Time taken: 
+114.187
